@@ -6,12 +6,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "chidders",
   "license": "ISC",
   "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000-\u0000i\u0000m\u0000g\u0000-\u0000t\u0000e\u0000s\u0000t\u0000",
   "dependencies": {
     "express": "^4.21.2",
     "multer": "^1.4.5-lts.1",
     "path": "^0.12.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiddersss/node-server-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chiddersss/node-server-test/issues"
+  },
+  "homepage": "https://github.com/Chiddersss/node-server-test#readme"
 }
