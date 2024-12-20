@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
             <form action="/upload" method="post" enctype="multipart/form-data">
                 <input type="file" name="image" accept="image/*" required>
                 <button type="submit">Upload</button>
-            </form>
+            </form> 
             <div id="imageContainer"></div>
             </body>
             </html>
