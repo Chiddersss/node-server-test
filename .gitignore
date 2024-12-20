@@ -1,0 +1,8 @@
+uploads/*
+!uploads/.gitkeep
+!uploads/uploads/*.jpeg
+uploads/*.jpg
+uploads/*.png
+uploads/*.gif
+!uploads/.gitkeep
+!uploads/
