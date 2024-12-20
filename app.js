@@ -49,7 +49,7 @@ app.post('/upload', upload.single('image'), (req, res) => {
         `);
 });
 
-const PORT = 3001;
+const PORT = 5001;
 app.listen(PORT, () => {
     console.log(`Server is listeing on port ${PORT}`);
 });
